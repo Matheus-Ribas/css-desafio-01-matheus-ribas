@@ -57,7 +57,8 @@ h2{
     object-fit: contain;
     padding: 2%;
     border-radius: 300px;
-    border: solid transparent;
+    border:solid transparent;
+    background: #00000033;
 }
 
 button{
